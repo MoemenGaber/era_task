@@ -1,0 +1,21 @@
+.post_footer{
+    background-color: rgb(240, 240, 240);
+    padding-top: 64px;
+    padding-bottom: 64px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.post_footer input{
+    display: inline;
+    margin: 20px auto;
+    padding: 8px 16px 8px 16px;
+
+}
+
+.post_footer .subscribe_button{
+    background-color: #2251ff;
+    padding:8px 24px 8px 24px;
+    color:white;
+}
